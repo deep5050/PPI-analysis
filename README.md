@@ -57,8 +57,8 @@ We are given Amino Acid (AA) sequences of hub genes and genes in networks.
                    derived.
 
 
-The complete documanetation and supporting documents can be found at:
+The complete documenetation and supporting documents can be found at:
         https://drive.google.com/drive/folders/192PLOCg0HI3hU5f5FGgfTYB9smr51m1C?usp=sharing
 
 # how to use?
-Just place the `Genomics` floder under your `root` Gdrive file system and give the necessary permissions to work with the data.
+Just place the `Genomics` folder under your `root` Gdrive file system and give the necessary permissions to work with the data.
