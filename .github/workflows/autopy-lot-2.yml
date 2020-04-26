@@ -1,4 +1,4 @@
-name: autopy-lot
+name: autopy-lot-markdown
 on: [push]
 
 jobs:
