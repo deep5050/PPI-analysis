@@ -11,5 +11,5 @@ jobs:
         uses: deep5050/autopy-lot@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
-          output_dir: './autopy-lot/markdowns'
+          output_dir: './autopy-lot/markdowns/'
           output_type: markdown
