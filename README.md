@@ -1,4 +1,4 @@
-# PPI-analysis
+# PPI-analysis ![autopy-lot](https://github.com/deep5050/PPI-analysis/workflows/autopy-lot/badge.svg)
 Protein Protein Interaction Analysis With The Help Of Data Science And Machine Learning.
 
 
