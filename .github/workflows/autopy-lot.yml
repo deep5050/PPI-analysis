@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: autopy-lot 
-        uses: deep5050/autopy-lot@1.0
+        uses: deep5050/autopy-lot@1.0.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
