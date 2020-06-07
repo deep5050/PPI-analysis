@@ -10,7 +10,7 @@
 
 # Abstract
 * Protein-Protein Interaction Networks can help us to find characteristics of some diseases.
-* We can apply the knowledge of the PPIs involved in the syndrome to develop any possible drugs.  PARKIN, PINK1 and DJ1 are three Hub Genes responsible for generation of some proteins which play vital roles in different cancers.
+* We can apply the knowledge of the PPIs involved in the syndrome to develop any possible drugs.  **PARKIN**, **PINK1** and **DJ1** are three Hub Genes responsible for generation of some proteins which play vital roles in different cancers.
 * Here in this work we try to analyze these 3 genes ( hence formed Proteins) with the help of PPI networks to find similarities or dissimilarities between them by applying Linear and Graphical Approaches.
 * As a result, we may come up with some unexplored insights that can lead us towards cure to the diseases.
 
