@@ -2,7 +2,7 @@
 <p align="center"><h3 align="center">PPI ANALYSIS</h3></p>
 <p align="center">Protein Protein Interaction Analysis With The Help Of Data Science And Machine Learning</p>
 <p align="center"><img alt"comparison" src="images/comparison.png" align="center" />
-<p align="center"><a href="https://github.com/deep5050/PPI-analysis/autopy-lot"><img src="https://img.shields.io/github/workflow/status/deep5050/PPI-analysis/autopy-lot-markdown?label=AUTOPYLOT&logo=github&style=for-the-badge"></a></p>
+<p align="center"><a href="https://github.com/deep5050/PPI-analysis/tree/master/autopy-lot/markdowns"><img src="https://img.shields.io/github/workflow/status/deep5050/PPI-analysis/autopy-lot-markdown?label=AUTOPYLOT&logo=github&style=for-the-badge"></a></p>
 </div>
 
 
