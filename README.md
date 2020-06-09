@@ -1,7 +1,7 @@
 <div align="center">
-<p align="center"><h3 align="center">PPI ANALYSIS</h3></p>
+<p align="center"><a href="https://github.com/deep5050/PPI-analysis/"><img src="https://i.imgur.com/HRPPxlP.jpg" title="PPI ANALYSIS" height=400px width=400px /></a>
+</p>
 <p align="center">Protein Protein Interaction Analysis With The Help Of Data Science And Machine Learning</p>
-<p align="center"><img alt"comparison" src="images/comparison.png" align="center" />
 <p align="center"><a href="https://github.com/deep5050/PPI-analysis/tree/master/autopy-lot/markdowns"><img src="https://img.shields.io/github/workflow/status/deep5050/PPI-analysis/autopy-lot-markdown?label=AUTOPYLOT&logo=github&style=for-the-badge"></a></p>
 </div>
 
@@ -66,3 +66,5 @@ The complete documenetation and supporting documents can be found at:
 
 # how to use?
 Just place the `Genomics` folder under your `root` Gdrive file system and give the necessary permissions to work with the data.
+
+<div align=center"> <p align="center"><img alt"comparison" src="images/comparison.png" align="center" /></p></div>
